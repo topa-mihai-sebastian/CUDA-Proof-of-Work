@@ -1,8 +1,4 @@
-Name: Topa Mihai-Sebastian
-
-Group: 333CC
-
-# Tema 2 - CUDA Proof of Work
+CUDA Proof of Work
 
 ## Organization
 
