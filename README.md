@@ -1,4 +1,4 @@
-CUDA Proof of Work
+# CUDA Proof of Work
 
 ## Organization
 
